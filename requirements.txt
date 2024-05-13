@@ -1,1 +1,10 @@
+pyspark==3.5.1
+pandas
 scikit-learn
+pylint
+pytest
+codecov
+pytest-cov
+coverage
+ruff
+pytest-mock
