@@ -1,6 +1,10 @@
 pyspark==3.5.1
 pandas
-scikit-learn
+numpy
+jupyter
+pyarrow
+fastparquet
+tensorflow
 pylint
 pytest
 codecov

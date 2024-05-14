@@ -1,0 +1,3 @@
+[submodule "convert_json_to_parquet"]
+	path = convert_json_to_parquet
+	url = https://github.com/arturogonzalezm/convert_json_to_parquet.git
